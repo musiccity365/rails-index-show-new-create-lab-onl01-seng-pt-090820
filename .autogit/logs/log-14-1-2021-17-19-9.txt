@@ -1,0 +1,36 @@
+-------------------- Auto-Git Log --------------------
+		Sun Feb 14 2021 17:19:09 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* Gemfile.lock
+* config/routes.rb
+
+
+Created files:
+* .autogit/autogit.json
+* app/assets/javascripts/coupons.coffee
+* app/assets/stylesheets/coupons.scss
+* app/controllers/coupons_controller.rb
+* app/helpers/coupons_helper.rb
+* app/models/application_record.rb
+* app/models/coupon.rb
+* app/views/coupons/create.html.erb
+* app/views/coupons/index.html.erb
+* app/views/coupons/new.html.erb
+* app/views/coupons/show.html.erb
+* db/migrate/20210214221044_create_coupons.rb
+* spec/helpers/coupons_helper_spec.rb
+* spec/requests/coupons_request_spec.rb
+* spec/views/coupons/create.html.erb_spec.rb
+* spec/views/coupons/index.html.erb_spec.rb
+* spec/views/coupons/new.html.erb_spec.rb
+* spec/views/coupons/show.html.erb_spec.rb
+
+
+Deleted files:
+* app/models/.keep
+* app/models/concerns/.keep
+
+
+Renamed files:
